@@ -1,7 +1,6 @@
 ## Hello,I'm Bubbles 👋
 
 <!--
-**Bongiwe-Bubbles03/Bongiwe-Bubbles03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I love challenging myself to learn new skills , this time I'm learning how to code. Its not easy but it really is fun and addictive. 
 I'm really loking foward to learning more.
 
